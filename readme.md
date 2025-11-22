@@ -1,4 +1,5 @@
-<div align="center">
+curl — salvar em arquivo
+ curl -L -o badge.svg "https://raw.githubusercontent.com/sindresorhus/awesome/gh-pages/badge.svg"<div align="center">
 	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
 	<br>
 	<br>
